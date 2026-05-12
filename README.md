@@ -1,6 +1,6 @@
 # Analisador de Documentos com IA
 
-Projeto desenvolvido para um desafio técnico de processo seletivo para estágio.
+Projeto desenvolvido para um desafio técnico.
 
 A aplicação recebe um arquivo PDF e uma pergunta em linguagem natural, envia o documento para a API da OpenAI e retorna uma resposta estruturada em JSON.
 
