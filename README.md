@@ -191,7 +191,7 @@ Missing scopes: api.files.write
 
 significa que a chave utilizada não possui permissão para upload de arquivos.
 
-Nesse caso, é necessário utilizar uma API key com permissão adequada para arquivos ou solicitar ao responsável pelo desafio uma nova chave com essa permissão.
+Nesse caso, é necessário utilizar uma API Key com permissão adequada para arquivos.
 
 ## Considerações finais
 
