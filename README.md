@@ -1,4 +1,4 @@
-# Analisador de Documentos com IA
+# Analisador de documentos com IA
 
 Projeto desenvolvido para um desafio técnico.
 
