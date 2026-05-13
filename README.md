@@ -21,6 +21,8 @@ A aplicação recebe um arquivo PDF e uma pergunta em linguagem natural, envia o
 - Python
 - OpenAI API
 - python-dotenv
+- JSON Schema
+- Responses API
 
 ## Modelo escolhido
 
